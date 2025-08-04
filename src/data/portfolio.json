@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "id": "shiritori",
+      "name": "しりとり",
+      "description": "しりとりゲームのWebアプリケーション",
+      "technologies": ["JavaScript", "Deno"],
+      "githubUrl": "https://github.com/kaito4681/shiritori",
+      "demoUrl": "https://shiritori-deno-deploy-82g7hqxjayv9.deno.dev/",
+      "stars": 1,
+      "featured": true
+    },
+    {
+      "id": "univ-fukui-authenticator",
+      "name": "Univ.Fukui Authenticator Extension",
+      "description": "福井大学学生ポータル用Authenticator (Chrome extension)",
+      "technologies": ["JavaScript", "Chrome Extension"],
+      "githubUrl": "https://github.com/kaito4681/Univ.Fukui-Authenticator-Extension",
+      "storeUrl": "https://chromewebstore.google.com/detail/%E7%A6%8F%E4%BA%95%E5%A4%A7%E5%AD%A6-%E5%AD%A6%E7%94%9F%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E7%94%A8-authenticato/agbeddljnfggabajkjfamdfcelkmlanc?authuser=0&hl=ja",
+      "stars": 1,
+      "featured": true
+    },
+    {
+      "id": "hanabi-touch",
+      "name": "Hanabi-touch",
+      "description": "花火タイピングゲーム",
+      "technologies": ["JavaScript", "Deno"],
+      "githubUrl": "https://github.com/kaito4681/Hanabi-touch",
+      "demoUrl": "https://kaito-hanabi-touc-93.deno.dev",
+      "stars": 1,
+      "featured": true
+    },
+    {
+      "id": "localhost-scanner",
+      "name": "Localhost Scanner Chrome Extension",
+      "description": "ローカルホストをスキャンし、アクティブなポートを開くChrome拡張機能",
+      "technologies": ["JavaScript", "Chrome Extension"],
+      "githubUrl": "https://github.com/kaito4681/localhost-scanner-chrome-extension",
+      "storeUrl": "https://chromewebstore.google.com/detail/localhost-scanner/hnebkhdelmgjlneobldgpigajoehfjhc",
+      "stars": 1,
+      "featured": true
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "description": "このサイト",
+      "technologies": ["TypeScript", "React", "Next.js", "Tailwind CSS"],
+      "githubUrl": "https://github.com/kaito4681/portfolio",
+      "stars": 0,
+      "featured": true
+    }
+  ]
+}
